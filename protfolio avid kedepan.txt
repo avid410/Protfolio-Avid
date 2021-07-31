@@ -1,3 +1,4 @@
 protfolio ini dibuat hanya untuk belajar dan menjadi vaule untuk kedepan 
 bahasa program yang digunkan sederhana dan mudah yaitu HTML,CSS Dan Java Secrip
 di usahakan Web Protfolio Responsive 
+Belajar bekerja Di git hub
